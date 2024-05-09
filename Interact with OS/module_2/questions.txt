@@ -1,0 +1,4 @@
+What is the difference between the readline() and read() methods?
+
+    The readline() method reads a single line from the current position, the read() method reads from the current position until the end of the file.
+
